@@ -1,0 +1,2 @@
+senha: 4554 -> Senha padrão para o usuário root
+porta do mysql - mudou de 3306 para 3307
